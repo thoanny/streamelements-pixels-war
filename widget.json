@@ -1,0 +1,131 @@
+{
+  "refresh": {
+    "type": "button",
+    "label": "Refresh rewards",
+    "value":"Refresh rewards"
+  },
+  "pixelSize": {
+    "type": "slider",
+    "label": "Pixel size",
+    "value": 10,
+    "min": 10,
+    "max": 100,
+    "step": 10
+  },
+  "canvaSize": {
+    "type": "slider",
+    "label": "Canva size",
+    "value": 500,
+    "min": 100,
+    "max": 1000,
+    "step": 100
+  },
+  "reset": {
+    "type": "button",
+    "label": "Reset pixels",
+    "value":"Reset pixels"
+  },
+  "showPixels": {
+    "type": "checkbox",
+    "label": "Show Pixels"
+  },
+  "c1name": {
+    "type": "text",
+    "label": "Color 1 reward name",
+    "group": "Colors"
+  },
+  "c1color": {
+    "type": "colorpicker",
+    "label": "Color 1 value",
+    "value": "#2ecc71",
+    "group": "Colors"
+  },
+  "c2name": {
+    "type": "text",
+    "label": "Color 2 reward name",
+    "group": "Colors"
+  },
+  "c2color": {
+    "type": "colorpicker",
+    "label": "Color 2 value",
+    "value": "#3498db",
+    "group": "Colors"
+  },
+  "c3name": {
+    "type": "text",
+    "label": "Color 3 reward name",
+    "group": "Colors"
+  },
+  "c3color": {
+    "type": "colorpicker",
+    "label": "Color 3 value",
+    "value": "#9b59b6",
+    "group": "Colors"
+  },
+  "c4name": {
+    "type": "text",
+    "label": "Color 4 reward name",
+    "group": "Colors"
+  },
+  "c4color": {
+    "type": "colorpicker",
+    "label": "Color 4 value",
+    "value": "#34495e",
+    "group": "Colors"
+  },
+  "c5name": {
+    "type": "text",
+    "label": "Color 5 reward name",
+    "group": "Colors"
+  },
+  "c5color": {
+    "type": "colorpicker",
+    "label": "Color 5 value",
+    "value": "#f1c40f",
+    "group": "Colors"
+  },
+  "c6name": {
+    "type": "text",
+    "label": "Color 6 reward name",
+    "group": "Colors"
+  },
+  "c6color": {
+    "type": "colorpicker",
+    "label": "Color 6 value",
+    "value": "#e67e22",
+    "group": "Colors"
+  },
+  "c7name": {
+    "type": "text",
+    "label": "Color 7 reward name",
+    "group": "Colors"
+  },
+  "c7color": {
+    "type": "colorpicker",
+    "label": "Color 7 value",
+    "value": "#e74c3c",
+    "group": "Colors"
+  },
+  "c8name": {
+    "type": "text",
+    "label": "Color 8 reward name",
+    "group": "Colors"
+  },
+  "c8color": {
+    "type": "colorpicker",
+    "label": "Color 8 value",
+    "value": "#ecf0f1",
+    "group": "Colors"
+  },
+  "c9name": {
+    "type": "text",
+    "label": "Color 9 reward name",
+    "group": "Colors"
+  },
+  "c9color": {
+    "type": "colorpicker",
+    "label": "Color 9 value",
+    "value": "#95a5a6",
+    "group": "Colors"
+  }
+}
