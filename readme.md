@@ -18,11 +18,14 @@ Create 9 rewards, one for each color, with different name. Set "Cost". Define "L
     * `widget.js` to JS
     * `widget.json` to Fields
 3. Save by clicking "Done"
-4. Initialize Pixels War Map by setting "Pixel size" and "Canva size" (see 🗺️ Map grid, below)
-5. Check "Show Pixels" to see the grid and pixels' number
-6. Set each 9 colors :
+4. Click on "Refresh rewards" to fetch Twitch rewards
+5. Initialize Pixels War Map by setting "Pixel size" and "Canva size" (see 🗺️ Map grid, below)
+6. Check "Show Pixels" to see the grid and pixels' number
+7. Set each 9 colors :
     * `Color * reward` name does need to match exactly the same as Twitch Reward's name
     * `Color * value` color you which to use
+
+If you want to reset Pixels War Map, click on "Reset Pixels".
 
 ## 🗺️ Map grid
 
